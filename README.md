@@ -25,7 +25,7 @@ smallfile-1.xml
     <name>Adam</name>
   </person>
   <person>
-    <name>
+    <name>Smith</name>
   </person>
 <employees>
 
